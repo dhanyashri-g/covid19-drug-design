@@ -40,6 +40,16 @@ This repository contains the complete analysis pipeline and results from researc
 | **CytoHubba** | Hub gene identification |
 | **P-HIPSTer (Virus-Host PPI)** | Validation of viral gene interactions |
 
+![SMACC](https://img.shields.io/badge/SMACC-PhytochemDB-green)
+![DIGEP-Pred](https://img.shields.io/badge/DIGEP--Pred-SMILES2Genes-lightblue)
+![CTD](https://img.shields.io/badge/CTD-DiseaseGeneMapping-red)
+![SwissADME](https://img.shields.io/badge/SwissADME-Druglikeness-ff69b4)
+![Enrichr](https://img.shields.io/badge/Enrichr-PathwayEnrichment-purple)
+![STRING](https://img.shields.io/badge/STRING-PPI-yellow)
+![CytoHubba](https://img.shields.io/badge/CytoHubba-HubGenes-lightgrey)
+ ![Cytoscape](https://img.shields.io/badge/Cytoscape-Network-green)
+![P--HIPSTer](https://img.shields.io/badge/P--HIPSTer-VirusHostPPI-blueviolet)
+
 ---
 
 ## 📌 Highlights
